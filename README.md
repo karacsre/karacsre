@@ -1,9 +1,10 @@
-### Hi there, Im Kara 👋
+### Hi there, Im Kara:sparkling_heart: 
 
+<h3>About Me:woman_technologist:</h3>
 
-Detail-oriented Site Reliability Engineer with +5 years of demonstrated success in Cloud Computing Infrastructure, and Optimization. I am passionate about learning new technologies. I am currently seeking an opportunity that offers professional growth and will allow me to utilize my skills in these areas.
+a detail-oriented <b>Site Reliability Engineer</b> with +5 years of demonstrated success in Cloud Computing, Infrastructure, and Optimization. I am passionate about learning new technologies & <b>all things SRE</b>! I am currently seeking an opportunity that offers professional growth and will allow me to utilize my skills in these areas.
 
-Tech Stack:
+<b>:computer:Tech Stack:</b>
 - Linux
 - Python
 - AWS
@@ -11,13 +12,16 @@ Tech Stack:
 - Terraform
 - Docker
 
+:art:Outside of tech I enjoy <b>oil painting</b> and <b>digital painting</b>. My favorite subject matters are <b>movie scenes, portraits</b> and <b>random objects/still lifes</b>.
+  
+:blue_book:I also love to <b>read</b>!My favorite genre are <b>Non-Fiction, Mysteries, & Syfy</b>.
+  
+Find out more about me & feel free to connect with me here:sparkles::
 
-Find out more about me & feel free to connect with me here:
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/Kara%20Caffee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kara-caffee/)](https://www.https://www.linkedin.com/in/kara-caffee/)
-[![Medium Badge](https://img.shields.io/badge/Kara%20Caffee-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
+[![Medium Badge](https://img.shields.io/badge/Kara%20Caffee-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@karacaffee)]
 [![Gmail Badge](https://img.shields.io/badge/karacsre@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karacsre@gmail.com)](mailto:karacsre@gmail.com)
 
 ## ⚡ Technologies
